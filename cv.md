@@ -8,6 +8,7 @@
 * +375(29)1774954
 
 # Краткая информация о себе
+A Junior Frontend Web Developer graduated from Chongqing University of Technology, Chonqing, China with 6 months of trainee experience at SQILSOFT, Grodno, Belarus. During the internship, worked on a commercial project, developing chess on vue.js for a JS menu application. My ambition is to be a professional in web developing. A hardworking, self-motivated, focused, dedicated, and innovative individual with a sheer passion for web developing, focusing on my strengths and integrating diverse evolving technologies of the React,  JS, CSS, HTML. I'm fluent in Russian, English, basic Chinese.
 
 # Навыки
 * JavaScript
