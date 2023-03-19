@@ -1,1 +1,1 @@
-# rsschool-cv
+https://anton-seniuta.github.io/rsschool-cv/
